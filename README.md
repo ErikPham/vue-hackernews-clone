@@ -11,13 +11,13 @@ HackerNews clone built with Vue 2.0 + vue-router + vuex, with server-side render
 ## Build Setup
 ``` bash
 # install dependencies
-npm install # or yarn
+yarn
 
 # serve in dev mode, with hot reload at localhost:8080
-npm run dev
+yarn dev
 
 # serve theme at localhost:8888
-npm run dev:theme
+yarn dev:theme
 ```
 
 ## License
